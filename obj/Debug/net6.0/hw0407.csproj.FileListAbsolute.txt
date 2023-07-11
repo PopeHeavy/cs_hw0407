@@ -1,0 +1,15 @@
+C:\Users\Game\Desktop\Домашка\hw0407\obj\Debug\net6.0\hw0407.csproj.AssemblyReference.cache
+C:\Users\Game\Desktop\Домашка\hw0407\obj\Debug\net6.0\hw0407.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Game\Desktop\Домашка\hw0407\obj\Debug\net6.0\hw0407.AssemblyInfoInputs.cache
+C:\Users\Game\Desktop\Домашка\hw0407\obj\Debug\net6.0\hw0407.AssemblyInfo.cs
+C:\Users\Game\Desktop\Домашка\hw0407\obj\Debug\net6.0\hw0407.csproj.CoreCompileInputs.cache
+C:\Users\Game\Desktop\Домашка\hw0407\bin\Debug\net6.0\hw0407.exe
+C:\Users\Game\Desktop\Домашка\hw0407\bin\Debug\net6.0\hw0407.deps.json
+C:\Users\Game\Desktop\Домашка\hw0407\bin\Debug\net6.0\hw0407.runtimeconfig.json
+C:\Users\Game\Desktop\Домашка\hw0407\bin\Debug\net6.0\hw0407.dll
+C:\Users\Game\Desktop\Домашка\hw0407\bin\Debug\net6.0\hw0407.pdb
+C:\Users\Game\Desktop\Домашка\hw0407\obj\Debug\net6.0\hw0407.dll
+C:\Users\Game\Desktop\Домашка\hw0407\obj\Debug\net6.0\refint\hw0407.dll
+C:\Users\Game\Desktop\Домашка\hw0407\obj\Debug\net6.0\hw0407.pdb
+C:\Users\Game\Desktop\Домашка\hw0407\obj\Debug\net6.0\hw0407.genruntimeconfig.cache
+C:\Users\Game\Desktop\Домашка\hw0407\obj\Debug\net6.0\ref\hw0407.dll
